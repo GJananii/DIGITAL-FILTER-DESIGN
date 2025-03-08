@@ -36,3 +36,6 @@ Simulate the design using appropriate tools (ModelSim, MATLAB Simulink, etc.).
 Analyze and document the filter’s response.
 
 OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/9736cb89-de56-456a-ba10-e78cedef2935)
+![Image](https://github.com/user-attachments/assets/2339e7b8-ee61-4fe0-b5d8-21a89f95c7fe)
